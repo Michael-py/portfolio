@@ -23,7 +23,7 @@
 
 <hr/>
 
-Hello, my name is **Michael Bidemi Dairo** and welcome to my portfolio repository which hosts all of my Data Science and Data Analysis projects that I have worked or I am currently working on. This repository will be updated regularly as I take on new challenges and conquer them all - so keep an eye out. :smile: :star:
+Hello, my name is **Michael Bidemi Dairo** and welcome to my portfolio repository which hosts all of my Data projects that I have worked or I am currently working on. This repository will be updated regularly as I take on new challenges and conquer them all - so keep an eye out. :smile: :star:
 
 The projects in this repository are mostly written in the Python programming language and in the Jupyter notebook environment. If anything changes in the nearest future, you'll be the first to know.
 
