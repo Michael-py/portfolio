@@ -1,4 +1,4 @@
-﻿# Data Science Portfolio
+﻿# Data Portfolio
 
 <h2 id='toc'>Table of Contents</h2>
 <hr/>
