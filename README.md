@@ -23,9 +23,9 @@
 
 <hr/>
 
-Hello, my name is **Michael Bidemi Dairo** and welcome to my portfolio repository which hosts all of my Data projects that I have worked or I am currently working on. This repository will be updated regularly as I take on new challenges and conquer them all - so keep an eye out. :smile: :star:
+Hello, my name is **Michael Bidemi Dairo**, and welcome to my portfolio repository which hosts all of my Data projects that I have worked or am currently working on. This repository will be updated regularly as I take on new challenges and conquer them all - so keep an eye out. :smile: :star:
 
-The projects in this repository are mostly written in the Python programming language and in the Jupyter notebook environment. If anything changes in the nearest future, you'll be the first to know.
+The projects in this repository are mostly written in the Python programming language and in the Jupyter Notebook environment. If anything changes soon, you'll be the first to know.
 
 For more information about me, visit my [website](https://michael-py.github.io/) or view my [resume](https://drive.google.com/file/d/1dgYYUh4Oy4PEonepn6HRcB5Jr3a8l-JX/view?usp=sharing). Please contact me on [LinkedIn](https://linkedin.com/in/michaelbidemidairo) if you are looking to hire a data scientist or data analyst.
 
@@ -43,7 +43,7 @@ For more information about me, visit my [website](https://michael-py.github.io/)
 
 ![Grocery Shopping](./assets/grocery-shopping.png)
 
-Grocery shoppers struggle to determine the availability of item at grocery stores, and most times do not take advantage of price disparity and promos to get the best deals.
+Grocery shoppers struggle to determine the availability of items at grocery stores, and most times do not take advantage of price disparity and promos to get the best deals.
 
 It becomes imperative to develop a service that provides shopper with the most current deals and price information of items to improve their shopping experience and reduce cost.
 
@@ -56,7 +56,7 @@ As part of a team, we came up with a solution that allows grocery shoppers to se
 - If an item is on sale or promo, the sale price or the promo price is considered for that item.
 - A list of products is displayed to the user sorted from the cheapest to the costliest.
 - The user selects which products they want from each store
-- The algorithm takes this as input and compares the prices of the products accross all stores, and recommends the store that gives the best value for the user's money.
+- The algorithm takes this as input and compares the prices of the products across all stores, and recommends the store that gives the best value for the user's money.
 
 The stores of interest for this project include;
 
@@ -65,7 +65,7 @@ The stores of interest for this project include;
 3. **[Pick 'n Pay](pnp.co.za)**
 4. **[Woolworths](woolworths.co.za)**
 
-Range of products for this project include;
+The range of products for this project includes;
 
 1. Rice - _1kg, 2kg, 5kg, e.t.c_
 2. Sugar - _1kg, 2kg, e.t.c_
@@ -89,13 +89,13 @@ __Methods:__ _Web scraping, Algorithm, Python scripting_
 
 ![Movies](./assets/movies.png)
 
-Recommender systems are the unsung heroes of our modern technological world. Search engines, online shopping, streaming multimedia platforms, news-feeds - all of these services depend on recommendation algorithms in order to provide users the content they want to interact with.
+Recommender systems are the unsung heroes of our modern technological world. Search engines, online shopping, streaming multimedia platforms, news feeds - all of these services depend on recommendation algorithms in order to provide users with the content they want to interact with.
 
-At a fundamental level, these systems operate using similarity, where we try to match people (users) to things (items). Two primary approaches are used in recommender systems are content-based and collaborative-based filtering. In content-based filtering this similarity is measured between items based on their properties, while collaborative filtering uses similarities amongst users to drive recommendations.
+At a fundamental level, these systems operate using similarity, where we try to match people (users) to things (items). Two primary approaches are used in recommender systems are content-based and collaborative-based filtering. In content-based filtering, this similarity is measured between items based on their properties, while collaborative filtering uses similarities among users to drive recommendations.
 
-This was a particularly interesting project for me because I love seeing movies - great quality movies, and would always wondered how movie platforms would know just the right movies to suggest to me. Having carried out this project, I now have a more indepth understanding of how it is all done. It's not magic, it's science - well, science is magic, so ...
+This was a particularly interesting project for me because I love seeing movies—great quality movies—and have always wondered how movie platforms would know just the right movies to suggest to me. Having carried out this project, I now have a more in-depth understanding of how it is all done. It's not magic; it's science—well, science is magic, so ...
 
-Data for this project was gotten from Kaggle.
+Data for this project was obtained from Kaggle.
 
 __Tools:__ _Pandas, numpy, matplotlib, Scikit-learn, Surprise, Scipy, Regex, NLTK, SVD_
 
@@ -115,9 +115,9 @@ With this context, I created a Machine Learning model that is able to classify w
 
 Providing an accurate and robust solution to this task gives companies access to a broad base of consumer sentiment, spanning multiple demographic and geographic categories - thus increasing their insights and informing future marketing strategies.
 
-This problem was approached using Natural Language Processing techniques to clean and structure the highly unclean and unstructured tweets text data into a proper form that can be fed into our algorithms. The cleaned and structured dataset was modelled using different Machine Learning Classification Algorithms and predictions were made to successfully classify a tweet into one of the four (4) sentiment classes, namely; positive, negative, neutral and factual. An accuracy of 75% was recorded from the best performing algorithm.
+This problem was approached using Natural Language Processing techniques to clean and structure the highly unclean and unstructured tweet text data into a proper form that can be fed into our algorithms. The cleaned and structured dataset was modeled using different Machine Learning Classification Algorithms and predictions were made to successfully classify a tweet into one of the four (4) sentiment classes, namely; positive, negative, neutral, and factual. An accuracy of 75% was recorded from the best-performing algorithm.
 
-Data for this project was gotten from Kaggle.
+Data for this project was obtained from Kaggle.
 
 __Tools:__ _Pandas, numpy, matplotlib, Scikit-learn, NLTK, Imblearn (ADASYN, SMOTE), TFIDFVectorizer, CountVectorizer, WordNetLemmatizer, PorterStemmer, LogisticRegression, RandomForestClassifier, Support Vector Classifier (SVC), MultinomialNB, GaussianNB_
 
@@ -131,17 +131,17 @@ __Method:__ _Machine learning, Supervised Learning, Classification_
 
 ![South African Languages](./assets/south-africa-langs.jpeg)
 
-South Africa is a multicultural society that is characterised by its rich linguistic diversity. Language is an indispensable tool that can be used to deepen democracy and also contribute to the social, cultural, intellectual, economic and political life of the South African society.
+South Africa is a multicultural society that is characterized by its rich linguistic diversity. Language is an indispensable tool that can be used to deepen democracy and also contribute to the social, cultural, intellectual, economic, and political life of South African society.
 
 The country is multilingual with 11 official languages, each of which is guaranteed equal status. Most South Africans are multilingual and able to speak at least two or more of the official languages.
 
-In this challenge, text which is in any of South Africa's 11 Official languages is to be taken and identified as to which language the text is in.
+In this challenge, a text which is in any of South Africa's 11 Official languages is to be taken and identified as to which language the text belongs to.
 
-This was a text classification problem. As such, Natural Language Processing techniques were employed to clean the data and engineer new features. Finally Supervised Machine Learning Algorithms were used to model and successfully classify a language text into its appropriate language class with a `96%` accuracy on datasets the algorithms had not yet seen.
+This was a text classification problem. As such, Natural Language Processing techniques were employed to clean the data and engineer new features. Finally, Supervised Machine Learning Algorithms were used to model and successfully classify a language text into its appropriate language class with a `96%` accuracy on datasets the algorithms had not yet seen.
 
-Data for this project was gotten from Kaggle.
+Data for this project was obtained from Kaggle.
 
-__Tools:__ _Pandas, numpy, matplotlib, Scikit-learn, NLTK, CountVectorizer, MultinomialNB, LogisticRegression, RandomForestClassifier,GradientBoostingClassifier, Support Vector Classifier (SVC), LinearSVC_
+__Tools:__ _Pandas, numpy, matplotlib, Scikit-learn, NLTK, CountVectorizer, MultinomialNB, LogisticRegression, RandomForestClassifier, GradientBoostingClassifier, Support Vector Classifier (SVC), LinearSVC_
 
 __Method:__ _Machine learning, Supervised Learning, Classification_
 
@@ -157,9 +157,9 @@ The supply of electricity plays a large role in the livelihood of citizens in a 
 
 in this project, the task was to model the shortfall between the energy generated by means of fossil fuels and various renewable sources, for the country of Spain.
 
-This problem was tackled using advanced regression machine learning technique to make predictions on the 3 hourly load shortfall to assist the government of spain identify what conditions lead to the generation of more electricity from fossil fuels than from renewable energy and at what time periods does this phenomenon occur.
+This problem was tackled using advanced regression machine learning techniques to make predictions on the 3 hourly load shortfall to assist the government of spain identify what conditions lead to the generation of more electricity from fossil fuels than from renewable energy and at what time periods does this phenomenon occur.
 
-The best performing model was Support Vector Regressor (SVR), a member in the family of the Support Vector Machines (SVM) with a Root Mean Square Error (RMSE) of `2829.73`
+The best-performing model was the Support Vector Regressor (SVR), a member in the family of Support Vector Machines (SVM) with a Root Mean Square Error (RMSE) of `2829.73`
 
 Data for this project was gotten from Kaggle.
 
